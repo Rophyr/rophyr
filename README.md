@@ -4,7 +4,7 @@
 
 🚀 Currently, I'm working on my first big web project.
 
-📚 I'm constantly learning and improving my skills to keep up with the latest trends and technologies in web development. My long term goal is to become a game developper.
+📚 I'm constantly learning and improving my skills to keep up with the latest trends and technologies in web development. My long term goal is to become a game developer.
 
 🔧 Skills
 
