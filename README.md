@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 I'm a web developer with expertise in HTML/CSS/JS, PHP/MariaDB, Photoshop, and Illustrator.<br>🚀 Currently, I'm working on my first big web project.<br>📚 I'm constantly learning and improving my skills to keep up with the latest trends and technologies in web development. My long term goal is to become a game developer.<br>🌱 Learning C# at the moment.
+🌐 I'm a web developer with expertise in HTML/CSS/JS, PHP/MariaDB, Photoshop, and Illustrator.<br>🚀 Currently, I'm working on my first big video game.<br>📚 I'm constantly learning and improving my skills to keep up with the latest trends and technologies in web development. My long term goal is to become a game developer.<br>🌱 Learning C# and PHP at the moment.
 
 
 ## 🌐 Socials:
